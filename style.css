@@ -232,7 +232,7 @@ h3 {
 font-size: 15px;
 
 }
-.block , .minibox1 , .minibox2 ,.edubox , .edubox1, .edubox3 { 
+.block , .minibox1 , .minibox2 ,.edubox , .edubox1, .edubox3 , footer{ 
     box-shadow:7px 7px 5px 0px rgba(50, 50, 50, 0.75);}
 
 .univer , .profession , .abedu { 
@@ -269,6 +269,14 @@ i{
     height: 10px;
     float: left; 
     background: #0084ce;
+}
+footer { 
+    width: 1100px;
+    height: 30px;
+    background-color:#ffffff;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
 }
 li { 
     list-style: none;
